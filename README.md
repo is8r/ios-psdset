@@ -26,6 +26,6 @@ Default-568h@2x.psd | 640 x 1136 | Launch image | iPhone 5 and iPod touch (5th g
 ##optional
 
 ####Achievement
-File | size | Description
-- | - | -
-Achievement.psd | 512 x 512 | GameCenter Achievement Icon 
+| File | size | Description |
+| ---- | ---- | ----------- |
+| Achievement.psd | 512 x 512 | GameCenter Achievement Icon |
