@@ -15,6 +15,7 @@
 | Icon-Small-50@2x.psd | 100 x 100 | Small icons for Spotlight search results | high-resolution iPad |
 | Icon-Small.psd | 29 x 29 | Small icons for Settings | iPhone, iPod touch, iPad |
 | Icon-Small-@2x.psd | 58 x 58 | Small icons for Settings | iPhone 5, iPod touch (5th generation), high-resolution | iPhone, iPod touch || Icon.psd | 57 x 57 | App icons | iPhone, iPod touch || Icon@2x.psd | 114 x 114 | App icons | iPhone 5, iPod touch (5th generation), high-resolution iPhone, iPod touch |
+| Icon-Spotlight.psd | 48 x 48 | App icons | iPad || Icon-Spotlight@2x.psd | 96 x 96 | App icons | high-resolution iPad |
 
 ####Launch image
 | File | size | Description | Device |
