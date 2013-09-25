@@ -2,6 +2,8 @@
 
 > 2013.1.11 update from (http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/IconsImages/IconsImages.html)
 
+> 2013.9.25 update from (https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/AppIcons.html#//apple_ref/doc/uid/TP40006556-CH19-SW1)
+
 
 ####App icon for the App Store
 | File | size | Description | Device |
@@ -16,7 +18,9 @@
 | Icon-Small.psd | 29 x 29 | Small icons for Settings | iPhone, iPod touch, iPad |
 | Icon-Small-@2x.psd | 58 x 58 | Small icons for Settings | iPhone 5, iPod touch (5th generation), high-resolution | iPhone, iPod touch || Icon.psd | 57 x 57 | App icons | iPhone, iPod touch || Icon@2x.psd | 114 x 114 | App icons | iPhone 5, iPod touch (5th generation), high-resolution iPhone, iPod touch |
 | Icon-Spotlight.psd | 48 x 48 | App icons | iPad || Icon-Spotlight@2x.psd | 96 x 96 | App icons | high-resolution iPad |
-
+| Icon-60@2x.psd | 120 x 120 | App icons | high-resolution iPhone and iPod touch (iOS7) |
+| Icon-76.psd | 76 x 76 | App icons | iPad (iOS7) |
+| Icon-76@2x.psd | 152 x 152 | App icons | high-resolution iPad (iOS7) |
 ####Launch image
 | File | size | Description | Device |
 | ---- | ---- | ----------- | ------ |
